@@ -1,0 +1,11 @@
+{
+  "name": "ml-1",
+  "version": "1.0.0",
+  "description": "Machine learning experiment 1",
+  "main": "index.js",
+  "author": "James1x0",
+  "license": "ISC",
+  "dependencies": {
+    "synaptic": "https://github.com/cazala/synaptic.git"
+  }
+}
